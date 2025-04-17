@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# Name: A.Nabithra
+# Register No.: 212224230172
 ## AIM
 To implement a sliding window protocol
 ## ALGORITHM:
@@ -10,9 +12,6 @@ To implement a sliding window protocol
 6. Stop the Program
 ## PROGRAM
 ```
-Name: A.Nabithra
-Register No.: 212224230172
-
 Client code:
 
 import socket 
